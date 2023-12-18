@@ -1,0 +1,21 @@
+:root {
+    
+    /* main colors */
+    --main-color-one: #FDE500;
+    --main-color-two: #0B0B0B;
+    --main-color-three: #FFFFFF;
+    --main-color-four: #F4F4F4;
+    
+
+    /* font style */
+    --txttitle-color: pink;
+    --txt-sub-title-color: pink;
+    --txt-main-color: pink;
+    --main-bg-color: pink;
+
+    /* text colors */
+  }
+  
+  body {
+    background-color: var(--main-bg-color);
+  }
